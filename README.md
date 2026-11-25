@@ -2,7 +2,7 @@
 
 A free, open-source, community-friendly collection of interview questions, explanations, coding challenges, and practical examples for aspiring and working developers.
 
-DSA
+**DSA**
 
 - Arrays
 - Binary Search
@@ -17,14 +17,16 @@ DSA
 - Trees
 - Two Pointers
 
-HTML & CSS
+
+**HTML & CSS**
 
 - Semantic HTML, forms, accessibility
 - Flexbox, Grid, positioning
 - Responsive design, animations
 - CSS specificity and box model
 
-  JavaScript
+
+**JavaScript**
 
 - Variables, scope, closures
 - Hoisting, promises, async/await
@@ -32,7 +34,8 @@ HTML & CSS
 - Array methods, prototypes
 - ES6+, DOM manipulation
 
-  React.js
+
+**React.js**
 
 - Components, props, state
 - Hooks and custom hooks
@@ -40,7 +43,8 @@ HTML & CSS
 - React performance optimization
 - Routing, API integration
 
-  Node.js & Express.js
+
+**Node.js & Express.js**
 
 - Event loop, streams
 - Middleware
@@ -48,7 +52,8 @@ HTML & CSS
 - Error handling
 - File handling and security
 
-  Vue.js
+
+**Vue.js**
 
 - Vue components
 - Composition API
@@ -56,7 +61,8 @@ HTML & CSS
 - Computed properties and watchers
 - Vue Router and Pinia
 
-  SQL & PostgreSQL
+
+**SQL & PostgreSQL**
 
 - Joins, subqueries
 - Window functions
@@ -64,7 +70,8 @@ HTML & CSS
 - Transactions
 - CTEs and stored procedures
 
-  MongoDB
+
+**MongoDB**
 
 - CRUD operations
 - Aggregation pipeline
@@ -72,7 +79,8 @@ HTML & CSS
 - Schema design
 - Relationships and performance
 
-  REST API
+
+**REST API**
 
 - HTTP methods and status codes
 - REST architecture
